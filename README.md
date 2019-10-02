@@ -1,1 +1,1 @@
-# Projeto-de-inicializaco-Cientifica
+# Projeto-de-inicializacao-Cientifica
